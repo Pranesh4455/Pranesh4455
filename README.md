@@ -30,12 +30,6 @@
 - Git, GitHub
 - Linux (Ubuntu/Kali)
 
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
 ## 🔥 Achievements
 - 🏆 Completed hands-on labs in Cybersecurity
 - 📜 Learning Cloud Security & Ethical Hacking
