@@ -1,6 +1,4 @@
-## Hi, I'm Pranesh Ganesan👋
-
-<h1 align="center">Hi 👋, I'm Pranesh</h1>
+<h1 align="center">Hi 👋, I'm Pranesh Ganesan</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Data Analyst</h3>
 
 
