@@ -1,43 +1,44 @@
 <h1 align="center">Hi 👋, I'm Pranesh Ganesan</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | Data Analyst</h3>
+<h3 align="center">Aspiring DevOps Engineer | Data Analyst</h3>
 
 
 ## 🚀 About Me
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- ☁️ Exploring **Cloud Security (AWS & GCP)**
-- 📊 Interested in **Data Analytics & SQL**
-- 🛠️ Building real-world security & data projects
-- 🎯 Goal: Get placed in **Cybersecurity / Data roles**
+- ⚙️ Passionate about DevOps, Automation & Cloud Technologies  
+- ☁️ Exploring AWS, GCP & CI/CD Pipelines  
+- 📊 Interested in Data Analytics & Business Insights  
+- 🛠️ Building real-world DevOps pipelines & Data projects  
+- 🎯 Goal: Get placed in DevOps / Data Analyst roles  
 
 
 ## 🧠 Skills & Technologies
 
-### 🔐 Cybersecurity & Networking
-- Nmap, Wireshark, Metasploit
-- Burp Suite
-- Network Security, Vulnerability Assessment
+### ⚙️ DevOps & Cloud
+- Docker, GitHub Actions (CI/CD)  
+- Google Cloud Platform (GCP)  
+- Linux, Shell Scripting  
+- Infrastructure Basics  
 
-### ☁️ Cloud & DevOps
-- Google Cloud Platform (GCP)
-- Linux, Shell Scripting
+### 📊 Data Analytics
+- SQL, Python  
+- Pandas, NumPy  
+- Data Visualization (Matplotlib, Power BI)  
 
-### 💻 Programming & Data
-- Python, SQL
-- Data Analysis (Pandas, NumPy)
-- Data Visualization (Matplotlib, Power BI)
+### 💻 Programming
+- Python  
+- Basic Node.js & React (for full-stack understanding)  
 
 ### 🔧 Tools & Platforms
-- Git, GitHub
-- Linux (Ubuntu/Kali)
+- Git, GitHub  
+- VS Code  
+- Linux (Ubuntu)  
 
 ## 🔥 Achievements
-- 🏆 Completed hands-on labs in Cybersecurity
-- 📜 Learning Cloud Security & Ethical Hacking
-- 🚀 Built multiple real-world projects
+- 🏆 Built CI/CD pipelines using Docker & GitHub Actions  
+- 📜 Hands-on experience with cloud deployment (GCP)  
+- 🚀 Developed data analysis & automation projects  
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: praneshganesan
-- 📧 Email: praneshganesan003@gmail.com
+- 💼 LinkedIn: praneshganesan  
+- 📧 Email: praneshganesan003@gmail.com  
 
-
-⭐️ "Always learning, always building"
+⭐️ *"Automating workflows, analyzing data, and continuously improving systems"*
