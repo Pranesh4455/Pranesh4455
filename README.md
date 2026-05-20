@@ -1,44 +1,39 @@
 <h1 align="center">Hi, I'm Pranesh Ganesan</h1>
-<h3 align="center">Aspiring DevOps Engineer | Data Analyst</h3>
-
+<h3 align="center">Aspiring Cyber Security Analyst | Data Analyst</h3>
 
 ## 🚀 About Me
-- ⚙️ Passionate about DevOps, Automation & Cloud Technologies  
-- ☁️ Exploring AWS, GCP & CI/CD Pipelines  
+- 🔐 Passionate about Cyber Security, Threat Analysis & Cloud Security  
+- ☁️ Exploring AWS, GCP & Security Fundamentals  
 - 📊 Interested in Data Analytics & Business Insights  
-- 🛠️ Building real-world DevOps pipelines & Data projects  
-- 🎯 Goal: Get placed in DevOps / Data Analyst roles  
-
+- 🛡️ Learning Vulnerability Assessment, SIEM & Security Monitoring  
+- 🎯 Goal: Get placed in Cyber Security / Data Analyst roles  
 
 ## 🧠 Skills & Technologies
-
-### ⚙️ DevOps & Cloud
-- Docker, GitHub Actions (CI/CD)  
-- Google Cloud Platform (GCP)  
-- Linux, Shell Scripting  
-- Infrastructure Basics  
-
+### 🔐 Cyber Security
+- Network Security Basics  
+- Vulnerability Assessment  
+- Linux & Shell Scripting  
+- Security Fundamentals & Threat Analysis  
+- Cloud Security Basics (AWS/GCP)  
 ### 📊 Data Analytics
 - SQL, Python  
 - Pandas, NumPy  
 - Data Visualization (Matplotlib, Power BI)  
-
 ### 💻 Programming
-- Python  
-- Basic Node.js & React (for full-stack understanding)  
-
+- Python   
 ### 🔧 Tools & Platforms
 - Git, GitHub  
 - VS Code  
 - Linux (Ubuntu)  
 
 ## 🔥 Achievements
-- 🏆 Built CI/CD pipelines using Docker & GitHub Actions  
-- 📜 Hands-on experience with cloud deployment (GCP)  
+- 🏆 Worked on security & automation-based projects  
+- 📜 Hands-on experience with cloud platforms (GCP)  
 - 🚀 Developed data analysis & automation projects  
+- 🛡️ Exploring cyber security tools & real-world security practices  
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: praneshganesan  
 - 📧 Email: praneshganesan003@gmail.com  
 
-⭐️ *"Automating workflows, analyzing data, and continuously improving systems"*
+⭐️ *"Securing systems, analyzing data, and continuously improving technology"*  
