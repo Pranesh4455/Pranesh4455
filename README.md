@@ -42,6 +42,7 @@
 * TryHackMe
 * Hack The Box
 * LetsDefend
+* PortSwigger Web Security Academy
 
 🌱 Currently Exploring:
 
@@ -49,6 +50,11 @@
 * SOC Analysis
 * Threat Intelligence
 * Web Application Security
+
+🔗 Open to Cybersecurity Internship & SOC Analyst Opportunities
+
+💡 Always Learning • Always Building • Always Securing
+
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: **praneshganesan**  
