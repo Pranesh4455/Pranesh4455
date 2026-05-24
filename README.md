@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i> Hi, I'm Pranesh Ganesan 👋 </i>
+  <i><strong>Hi, I'm Pranesh Ganesan 👋</strong></i>
 </p>
 
 ## Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
