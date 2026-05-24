@@ -8,8 +8,6 @@
   Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
 </h3>
 
-## Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
-
 🎓 Pursuing B.Tech in Computer Science Engineering at Lovely Professional University
 
 🔐 Passionate about Cybersecurity, Ethical Hacking, Network Security, and Cloud Security
