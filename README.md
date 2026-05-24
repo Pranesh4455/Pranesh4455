@@ -2,9 +2,11 @@
   ⭐ <i>"Analyze. Secure. Improve. Repeat."</i>
 </p>
 
-<p align="center">
-  <i><strong>Hi, I'm Pranesh Ganesan 👋</strong></i>
-</p>
+<h1 align="center">Hi, I'm Pranesh Ganesan 👋</h1>
+
+<h3 align="center">
+  Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
+</h3>
 
 ## Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
 
